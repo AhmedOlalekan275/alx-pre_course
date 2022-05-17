@@ -1,1 +1,1 @@
-my second commit
+learning to code is nice
